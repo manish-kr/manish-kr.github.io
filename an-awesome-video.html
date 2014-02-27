@@ -15,9 +15,10 @@
   <meta name="description" content="Posts and writings by Manish Kumar">
 
 
+<meta name="keywords" content="">
 
   <title>
-Author: Manish Kumar  </title>
+An Awesome Video  </title>
 
 </head>
 
@@ -40,7 +41,7 @@ Author: Manish Kumar  </title>
 
   <main>
     <header>
-<p>Author: Manish Kumar</p>
+<p>Posted on Thu 27 February 2014</p>
     </header>
 
 <article>
@@ -50,30 +51,34 @@ Author: Manish Kumar  </title>
   <div class="article_text">
     <iframe src="http://embed.ted.com/playlists/145/david_blaine_my_favorite_talk.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
-</article>
-<hr />
-<article>
-  <div class="article_title">
-    <h3><a href="/hello-world.html">Hello World</a></h3>
+  <div class="article_meta">
+    <p>Category: <a href="/category/misc.html">misc</a></p>
+    <p>Comments: <a href="#" onclick="javascript:toggleComments();return false;">toggle</a></p>
   </div>
-  <div class="article_text">
-    <h4>HI, MY NAME IS MANISH KUMAR</h4>
-<hr />
-<p>I'm a software developer living in New Delhi. I develop, design some pretty cool
-tools using the power of <em>Python</em>.</p>
-<h4>FACTS ABOUT ME</h4>
-<hr />
-<ul>
-<li>Aside from coding, my other job is reading novels.</li>
-<li>I love spending time with my best friend.</li>
-<li>Fond of Music ...</li></ul>
-  </div>
+
+    <div id="article_comments" style="display:block">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+           var disqus_identifier = "an-awesome-video.html";
+           (function() {
+           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+           dsq.src = 'http://7Python.disqus.com/embed.js';
+           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+        </script>
+    </div>
+
 </article>
 
     <footer>
-<div id="paginator">
-
-</div>
+<p><a href="/" class="button_accent">&larr; Back to Index</a></p>
+<script language="javascript">
+    function toggleComments() {
+        var commentDiv = document.getElementById("article_comments");
+        (commentDiv.style.display == "none") ? commentDiv.style.display = "block" : commentDiv.style.display = "none";
+        return false;
+    }
+</script>
     </footer>
 
     <div id="ending_message">
