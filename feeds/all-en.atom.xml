@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>7Python</title><link href="http://manishkumar.info/" rel="alternate"></link><link href="http://manishkumar.info/feeds/all-en.atom.xml" rel="self"></link><id>http://manishkumar.info/</id><updated>2014-02-28T00:54:03+05:30</updated><entry><title>Hello World</title><link href="http://manishkumar.info/about-me.html" rel="alternate"></link><updated>2014-02-28T00:54:03+05:30</updated><author><name>Manish Kumar</name></author><id>tag:manishkumar.info,2014-02-28:about-me.html</id><summary type="html">&lt;h4&gt;&lt;span class="caps"&gt;HI&lt;/span&gt;, &lt;span class="caps"&gt;MY&lt;/span&gt; &lt;span class="caps"&gt;NAME&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;MANISH&lt;/span&gt; &lt;span class="caps"&gt;KUMAR&lt;/span&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;p&gt;I&amp;#8217;m a software developer living in New Delhi. I develop, design some pretty cool
+tools using the power of &lt;em&gt;Python&lt;/em&gt;.&lt;/p&gt;
+&lt;h4&gt;&lt;span class="caps"&gt;FACTS&lt;/span&gt; &lt;span class="caps"&gt;ABOUT&lt;/span&gt; &lt;span class="caps"&gt;ME&lt;/span&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;Aside from coding, my other job is reading&amp;nbsp;novels.&lt;/li&gt;
+&lt;li&gt;I love spending time with my best&amp;nbsp;friend.&lt;/li&gt;
+&lt;li&gt;Fond of Music, Food and&amp;nbsp;Chocolates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="CloudU" src="images/white.png" title="CloudU" /&gt;
+&lt;img alt="MicroSoft Certified Professional" src="images/mcp.png" title="MCP" /&gt;
+&lt;img alt="VMware" src="images/cloud.png" title="VCA Cloud" /&gt;
+&lt;img alt="VMware" src="images/dcv.png" title="VCA DCV" /&gt;
+&lt;img alt="VMware" src="images/wm.png" title="VCA MW" /&gt;&lt;/p&gt;</summary><category term="misc"></category></entry></feed>
